@@ -1,0 +1,6 @@
+env.json
+personal.txt
+__pycache__/
+.idea/
+lambda-package/
+*.zip
